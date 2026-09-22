@@ -15,6 +15,7 @@ luby_assistent/
 |-backend/ #API REST
 |-frontend/ #Client
 |-.gitignore
+|-docker-compose.yml
 |-README.md
 
 ## Como rodar
